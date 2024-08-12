@@ -4,14 +4,31 @@
         "description": [{"text":"Ｅ","color":"#A453F5","bold":true},{"text":"Ｖ","color":"#8A71EB","bold":true},{"text":"Ｅ","color":"#718EE2","bold":true},{"text":"Ｒ","color":"#57ACD8","bold":true},{"text":"Ｇ","color":"#3EC9CF","bold":true},{"text":"Ｒ","color":"#33DCC2","bold":true},{"text":"Ｏ","color":"#38E3B1","bold":true},{"text":"Ｗ","color":"#3DEAA0","bold":true},{"text":"Ｔ","color":"#41F18F","bold":true},{"text":"Ｈ","color":"#46F87E","bold":true},{"text":"\n"},{"text":"By","color":"dark_gray"},{"text":" Gamemode 4","color":"#4AA0C7"}],
         "supported_formats": {
             "min_inclusive": 18,
-            "max_inclusive": 22
+            "max_inclusive": 34
         }
     },
     "overlays": {
         "entries": [
             {
-                "formats": 22,
-                "directory": "overlay_22"
+                "formats": {
+                    "min_inclusive": 22,
+                    "max_inclusive": 34
+                },
+                "directory": "overlay_shortgrass"
+            },
+            {
+                "formats": {
+                    "min_inclusive": 18,
+                    "max_inclusive": 24
+                },
+                "directory": "overlay_old_shader"
+            },
+            {
+                "formats": {
+                    "min_inclusive": 25,
+                    "max_inclusive": 34
+                },
+                "directory": "overlay_new_shader"
             }
         ]
     },
