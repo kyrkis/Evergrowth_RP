@@ -7,7 +7,7 @@ This document will be going over the following things:
 
 
 ## Minecraft Version:
-This resource pack is made for version 1.20.2-1.20.4 Future versions may work but lower ones are not suggested to use unless the map specifies otherwise.
+This resource pack is made for version 1.20.2-1.21 Future versions may work but lower ones are not suggested to use unless the map specifies otherwise.
 
 
 ## Translation
