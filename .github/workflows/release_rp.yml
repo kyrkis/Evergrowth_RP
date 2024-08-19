@@ -24,7 +24,7 @@ jobs:
     - name: Zip Folder
       uses: vimtor/action-zip@v1
       with:
-        files: assets/ pack.mcmeta pack.png overlay_new_shader overlay_older_shader overlay_shortgrass
+        files: assets/ pack.mcmeta pack.png overlay_new_shader overlay_old_shader overlay_shortgrass
         recursive: false
         dest: Evergrowth_RP.zip
     - name: Create Release
