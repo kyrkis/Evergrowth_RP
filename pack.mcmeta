@@ -29,6 +29,20 @@
                     "max_inclusive": 42
                 },
                 "directory": "overlay_new_shader"
+            },
+            {
+                "formats": {
+                    "min_inclusive": 18,
+                    "max_inclusive": 36
+                },
+                "directory": "overlay_old_armor"
+            },
+            {
+                "formats": {
+                    "min_inclusive": 37,
+                    "max_inclusive": 42
+                },
+                "directory": "overlay_new_armor"
             }
         ]
     },
