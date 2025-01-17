@@ -1,34 +1,6 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "minecraft:item/lime_dye"
-    } ,
-    "overrides": [
-      {"predicate": {"custom_model_data":1  }, "model": "puzzle_boxes:item/skybox/skybox"},
-      {"predicate": {"custom_model_data":7  }, "model": "puzzle_boxes:item/skybox/skybox_test_9"},
-      {"predicate": {"custom_model_data":9  }, "model": "puzzle_boxes:item/misc/black_wall"},
-      {"predicate": {"custom_model_data":13 }, "model": "puzzle_boxes:item/skybox/joke_skybox"},
-      {"predicate": {"custom_model_data":14 }, "model": "puzzle_boxes:item/skybox/dark_skybox"},
-      {"predicate": {"custom_model_data":15 }, "model": "puzzle_boxes:item/skybox/indoors_skybox"},
-
-      {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/birds/single_bird_1"},
-      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:item/birds/three_bird_1"},
-      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:item/birds/five_bird_1"},
-      {"predicate": {"custom_model_data":104}, "model": "puzzle_boxes:item/birds/sitting_bird_1"},
-      {"predicate": {"custom_model_data":105}, "model": "puzzle_boxes:item/birds/sitting_bird_2"},
-      {"predicate": {"custom_model_data":106}, "model": "puzzle_boxes:item/birds/sitting_bird_3"},
-
-      {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:item/text/paper_1"},
-      {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:item/text/paper_2"},
-
-      {"predicate": {"custom_model_data":300}, "model": "puzzle_boxes:block/variations/misc/ball_statue_1"},
-      {"predicate": {"custom_model_data":301}, "model": "puzzle_boxes:block/variations/misc/ball_statue_2"},
-      {"predicate": {"custom_model_data":302}, "model": "puzzle_boxes:block/variations/misc/ball_statue_2_ring"},
-
-      {"predicate": {"custom_model_data":400}, "model": "puzzle_boxes:item/misc/question_mark"},
-
-      {"predicate": {"custom_model_data":500}, "model": "puzzle_boxes:item/misc/titlecard"},
-      {"predicate": {"custom_model_data":501}, "model": "puzzle_boxes:item/misc/advancement"}
-
-      ]
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/lime_dye"
   }
+}

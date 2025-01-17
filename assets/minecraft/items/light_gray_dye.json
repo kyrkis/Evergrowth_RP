@@ -1,0 +1,768 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/misc/empty"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/completion_sign"
+                }
+            },
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/0_0"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/1_0"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/2_0"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/3_0"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/4_0"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/5_0"
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/6_0"
+                }
+            },
+            {
+                "threshold": 107,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/7_0"
+                }
+            },
+            {
+                "threshold": 108,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/8_0"
+                }
+            },
+            {
+                "threshold": 109,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/9_0"
+                }
+            },
+            {
+                "threshold": 110,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/10_0"
+                }
+            },
+            {
+                "threshold": 150,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/0_1"
+                }
+            },
+            {
+                "threshold": 151,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/1_1"
+                }
+            },
+            {
+                "threshold": 152,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/2_1"
+                }
+            },
+            {
+                "threshold": 153,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/3_1"
+                }
+            },
+            {
+                "threshold": 154,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/4_1"
+                }
+            },
+            {
+                "threshold": 155,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/5_1"
+                }
+            },
+            {
+                "threshold": 156,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/6_1"
+                }
+            },
+            {
+                "threshold": 157,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/7_1"
+                }
+            },
+            {
+                "threshold": 158,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/8_1"
+                }
+            },
+            {
+                "threshold": 159,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/9_1"
+                }
+            },
+            {
+                "threshold": 160,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/spring/10_1"
+                }
+            },
+            {
+                "threshold": 200,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/0_0"
+                }
+            },
+            {
+                "threshold": 201,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/1_0"
+                }
+            },
+            {
+                "threshold": 202,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/2_0"
+                }
+            },
+            {
+                "threshold": 203,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/3_0"
+                }
+            },
+            {
+                "threshold": 204,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/4_0"
+                }
+            },
+            {
+                "threshold": 205,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/5_0"
+                }
+            },
+            {
+                "threshold": 206,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/6_0"
+                }
+            },
+            {
+                "threshold": 207,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/7_0"
+                }
+            },
+            {
+                "threshold": 208,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/8_0"
+                }
+            },
+            {
+                "threshold": 209,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/9_0"
+                }
+            },
+            {
+                "threshold": 210,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/10_0"
+                }
+            },
+            {
+                "threshold": 250,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/0_1"
+                }
+            },
+            {
+                "threshold": 251,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/1_1"
+                }
+            },
+            {
+                "threshold": 252,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/2_1"
+                }
+            },
+            {
+                "threshold": 253,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/3_1"
+                }
+            },
+            {
+                "threshold": 254,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/4_1"
+                }
+            },
+            {
+                "threshold": 255,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/5_1"
+                }
+            },
+            {
+                "threshold": 256,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/6_1"
+                }
+            },
+            {
+                "threshold": 257,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/7_1"
+                }
+            },
+            {
+                "threshold": 258,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/8_1"
+                }
+            },
+            {
+                "threshold": 259,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/9_1"
+                }
+            },
+            {
+                "threshold": 260,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/winter/10_1"
+                }
+            },
+            {
+                "threshold": 300,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/0_0"
+                }
+            },
+            {
+                "threshold": 301,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/1_0"
+                }
+            },
+            {
+                "threshold": 302,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/2_0"
+                }
+            },
+            {
+                "threshold": 303,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/3_0"
+                }
+            },
+            {
+                "threshold": 304,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/4_0"
+                }
+            },
+            {
+                "threshold": 305,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/5_0"
+                }
+            },
+            {
+                "threshold": 306,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/6_0"
+                }
+            },
+            {
+                "threshold": 307,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/7_0"
+                }
+            },
+            {
+                "threshold": 308,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/8_0"
+                }
+            },
+            {
+                "threshold": 309,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/9_0"
+                }
+            },
+            {
+                "threshold": 310,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/10_0"
+                }
+            },
+            {
+                "threshold": 350,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/0_1"
+                }
+            },
+            {
+                "threshold": 351,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/1_1"
+                }
+            },
+            {
+                "threshold": 352,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/2_1"
+                }
+            },
+            {
+                "threshold": 353,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/3_1"
+                }
+            },
+            {
+                "threshold": 354,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/4_1"
+                }
+            },
+            {
+                "threshold": 355,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/5_1"
+                }
+            },
+            {
+                "threshold": 356,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/6_1"
+                }
+            },
+            {
+                "threshold": 357,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/7_1"
+                }
+            },
+            {
+                "threshold": 358,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/8_1"
+                }
+            },
+            {
+                "threshold": 359,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/9_1"
+                }
+            },
+            {
+                "threshold": 360,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/autumn/10_1"
+                }
+            },
+            {
+                "threshold": 400,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/0_0"
+                }
+            },
+            {
+                "threshold": 401,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/1_0"
+                }
+            },
+            {
+                "threshold": 402,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/2_0"
+                }
+            },
+            {
+                "threshold": 403,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/3_0"
+                }
+            },
+            {
+                "threshold": 404,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/4_0"
+                }
+            },
+            {
+                "threshold": 405,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/5_0"
+                }
+            },
+            {
+                "threshold": 406,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/6_0"
+                }
+            },
+            {
+                "threshold": 407,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/7_0"
+                }
+            },
+            {
+                "threshold": 408,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/8_0"
+                }
+            },
+            {
+                "threshold": 409,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/9_0"
+                }
+            },
+            {
+                "threshold": 410,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/10_0"
+                }
+            },
+            {
+                "threshold": 450,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/0_1"
+                }
+            },
+            {
+                "threshold": 451,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/1_1"
+                }
+            },
+            {
+                "threshold": 452,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/2_1"
+                }
+            },
+            {
+                "threshold": 453,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/3_1"
+                }
+            },
+            {
+                "threshold": 454,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/4_1"
+                }
+            },
+            {
+                "threshold": 455,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/5_1"
+                }
+            },
+            {
+                "threshold": 456,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/6_1"
+                }
+            },
+            {
+                "threshold": 457,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/7_1"
+                }
+            },
+            {
+                "threshold": 458,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/8_1"
+                }
+            },
+            {
+                "threshold": 459,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/9_1"
+                }
+            },
+            {
+                "threshold": 460,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/completion/summer/10_1"
+                }
+            },
+            {
+                "threshold": 500,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/spring_unlocked_unpressed"
+                }
+            },
+            {
+                "threshold": 501,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/spring_unlocked_pressed"
+                }
+            },
+            {
+                "threshold": 502,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/spring_locked_pressed"
+                }
+            },
+            {
+                "threshold": 510,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/autumn_unlocked_unpressed"
+                }
+            },
+            {
+                "threshold": 511,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/autumn_unlocked_pressed"
+                }
+            },
+            {
+                "threshold": 512,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/autumn_locked_pressed"
+                }
+            },
+            {
+                "threshold": 520,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/winter_unlocked_unpressed"
+                }
+            },
+            {
+                "threshold": 521,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/winter_unlocked_pressed"
+                }
+            },
+            {
+                "threshold": 522,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/winter_locked_pressed"
+                }
+            },
+            {
+                "threshold": 530,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/summer_unlocked_unpressed"
+                }
+            },
+            {
+                "threshold": 531,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/summer_unlocked_pressed"
+                }
+            },
+            {
+                "threshold": 532,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/summer_locked_pressed"
+                }
+            },
+            {
+                "threshold": 540,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/black_hole_unlocked_unpressed"
+                }
+            },
+            {
+                "threshold": 541,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/black_hole_unlocked_pressed"
+                }
+            },
+            {
+                "threshold": 542,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/black_hole_locked_pressed"
+                }
+            },
+            {
+                "threshold": 550,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/secrets_unlocked_unpressed"
+                }
+            },
+            {
+                "threshold": 551,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/secrets_unlocked_pressed"
+                }
+            },
+            {
+                "threshold": 552,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/toggles/secrets_locked_pressed"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "item/light_gray_dye"
+        }
+    }
+}

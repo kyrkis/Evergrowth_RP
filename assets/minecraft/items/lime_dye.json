@@ -1,0 +1,152 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/skybox/skybox"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/skybox/skybox_test_9"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/misc/black_wall"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/skybox/joke_skybox"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/skybox/dark_skybox"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/skybox/indoors_skybox"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/birds/single_bird_1"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/birds/three_bird_1"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/birds/five_bird_1"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/birds/sitting_bird_1"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/birds/sitting_bird_2"
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/birds/sitting_bird_3"
+                }
+            },
+            {
+                "threshold": 201,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/text/paper_1"
+                }
+            },
+            {
+                "threshold": 202,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/text/paper_2"
+                }
+            },
+            {
+                "threshold": 300,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/misc/ball_statue_1"
+                }
+            },
+            {
+                "threshold": 301,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/misc/ball_statue_2"
+                }
+            },
+            {
+                "threshold": 302,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/misc/ball_statue_2_ring"
+                }
+            },
+            {
+                "threshold": 400,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/misc/question_mark"
+                }
+            },
+            {
+                "threshold": 500,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/misc/titlecard"
+                }
+            },
+            {
+                "threshold": 501,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/misc/advancement"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "item/lime_dye"
+        }
+    }
+}

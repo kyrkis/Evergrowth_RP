@@ -1,0 +1,209 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/misc/empty"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/empty_button_unselected"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/empty_button_selected"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_unselected"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_selected"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_0"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_1"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_2"
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_3"
+                }
+            },
+            {
+                "threshold": 107,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_4"
+                }
+            },
+            {
+                "threshold": 108,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_5"
+                }
+            },
+            {
+                "threshold": 109,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_6"
+                }
+            },
+            {
+                "threshold": 110,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_7"
+                }
+            },
+            {
+                "threshold": 111,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_8"
+                }
+            },
+            {
+                "threshold": 112,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_9"
+                }
+            },
+            {
+                "threshold": 113,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_10"
+                }
+            },
+            {
+                "threshold": 114,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_11"
+                }
+            },
+            {
+                "threshold": 115,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/reset_button_pressed_12"
+                }
+            },
+            {
+                "threshold": 201,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/undo_button_unselected"
+                }
+            },
+            {
+                "threshold": 202,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/undo_button_selected"
+                }
+            },
+            {
+                "threshold": 203,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/undo_button_pressed"
+                }
+            },
+            {
+                "threshold": 301,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/view_button_unselected"
+                }
+            },
+            {
+                "threshold": 302,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/view_button_selected"
+                }
+            },
+            {
+                "threshold": 303,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/view_button_pressed"
+                }
+            },
+            {
+                "threshold": 304,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/view_button_active_unselected"
+                }
+            },
+            {
+                "threshold": 305,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/view_button_active_selected"
+                }
+            },
+            {
+                "threshold": 306,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/view_button_teleport_unselected"
+                }
+            },
+            {
+                "threshold": 307,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/buttons/view_button_teleport_selected"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "item/ender_eye"
+        }
+    },
+    "hand_animation_on_swap": false
+}

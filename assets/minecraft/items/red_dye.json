@@ -1,0 +1,348 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "entries": [
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/kyrkis/body"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/kyrkis/head"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/kyrkis/left_leg"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/kyrkis/right_leg"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/kyrkis/left_arm_wide"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/kyrkis/right_arm_wide"
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/kyrkis/left_arm_slim"
+                }
+            },
+            {
+                "threshold": 107,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/kyrkis/right_arm_slim"
+                }
+            },
+            {
+                "threshold": 110,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/thanathor/body"
+                }
+            },
+            {
+                "threshold": 111,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/thanathor/head"
+                }
+            },
+            {
+                "threshold": 112,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/thanathor/left_leg"
+                }
+            },
+            {
+                "threshold": 113,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/thanathor/right_leg"
+                }
+            },
+            {
+                "threshold": 114,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/thanathor/left_arm_wide"
+                }
+            },
+            {
+                "threshold": 115,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/thanathor/right_arm_wide"
+                }
+            },
+            {
+                "threshold": 116,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/thanathor/left_arm_slim"
+                }
+            },
+            {
+                "threshold": 117,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/thanathor/right_arm_slim"
+                }
+            },
+            {
+                "threshold": 120,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/bartthebart/body"
+                }
+            },
+            {
+                "threshold": 121,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/bartthebart/head"
+                }
+            },
+            {
+                "threshold": 122,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/bartthebart/left_leg"
+                }
+            },
+            {
+                "threshold": 123,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/bartthebart/right_leg"
+                }
+            },
+            {
+                "threshold": 124,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/bartthebart/left_arm_wide"
+                }
+            },
+            {
+                "threshold": 125,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/bartthebart/right_arm_wide"
+                }
+            },
+            {
+                "threshold": 126,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/bartthebart/left_arm_slim"
+                }
+            },
+            {
+                "threshold": 127,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/bartthebart/right_arm_slim"
+                }
+            },
+            {
+                "threshold": 130,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/raasdonder/body"
+                }
+            },
+            {
+                "threshold": 131,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/raasdonder/head"
+                }
+            },
+            {
+                "threshold": 132,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/raasdonder/left_leg"
+                }
+            },
+            {
+                "threshold": 133,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/raasdonder/right_leg"
+                }
+            },
+            {
+                "threshold": 134,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/raasdonder/left_arm_wide"
+                }
+            },
+            {
+                "threshold": 135,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/raasdonder/right_arm_wide"
+                }
+            },
+            {
+                "threshold": 136,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/raasdonder/left_arm_slim"
+                }
+            },
+            {
+                "threshold": 137,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/raasdonder/right_arm_slim"
+                }
+            },
+            {
+                "threshold": 140,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/toffeemax/body"
+                }
+            },
+            {
+                "threshold": 141,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/toffeemax/head"
+                }
+            },
+            {
+                "threshold": 142,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/toffeemax/left_leg"
+                }
+            },
+            {
+                "threshold": 143,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/toffeemax/right_leg"
+                }
+            },
+            {
+                "threshold": 144,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/toffeemax/left_arm_wide"
+                }
+            },
+            {
+                "threshold": 145,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/toffeemax/right_arm_wide"
+                }
+            },
+            {
+                "threshold": 146,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/toffeemax/left_arm_slim"
+                }
+            },
+            {
+                "threshold": 147,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/toffeemax/right_arm_slim"
+                }
+            },
+            {
+                "threshold": 150,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/miraku_memo/body"
+                }
+            },
+            {
+                "threshold": 151,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/miraku_memo/head"
+                }
+            },
+            {
+                "threshold": 152,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/miraku_memo/left_leg"
+                }
+            },
+            {
+                "threshold": 153,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/miraku_memo/right_leg"
+                }
+            },
+            {
+                "threshold": 154,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/miraku_memo/left_arm_wide"
+                }
+            },
+            {
+                "threshold": 155,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/miraku_memo/right_arm_wide"
+                }
+            },
+            {
+                "threshold": 156,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/miraku_memo/left_arm_slim"
+                }
+            },
+            {
+                "threshold": 157,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/player/miraku_memo/right_arm_slim"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "item/red_dye"
+        }
+    }
+}

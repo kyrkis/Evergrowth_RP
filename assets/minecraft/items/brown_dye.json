@@ -1,0 +1,201 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_1"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_1_cross"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_2"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_2_cross"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_3"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_3_cross"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_4"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_4_cross"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/wooden_box_1"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/wooden_box_1_cross"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/wooden_box_2"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_5"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_5_cross"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/black_hole_box_1"
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/rusty_box_1"
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/rusty_box_2"
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/box/bright_metal_box_1"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_1_off"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_2_off"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_3_off"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_4_off"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_5_off"
+                }
+            },
+            {
+                "threshold": 201,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_1_on"
+                }
+            },
+            {
+                "threshold": 202,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_2_on"
+                }
+            },
+            {
+                "threshold": 203,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_3_on"
+                }
+            },
+            {
+                "threshold": 204,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_4_on"
+                }
+            },
+            {
+                "threshold": 205,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_5_on"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "item/brown_dye"
+        }
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "entries": [
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/small_horizontal_placeholder_door_1"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/small_horizontal_factory_door_1"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"
+                }
+            },
+            {
+                "threshold": 201,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/small_vertical_placeholder_door_1"
+                }
+            },
+            {
+                "threshold": 202,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/small_vertical_industrial_door_1"
+                }
+            },
+            {
+                "threshold": 203,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"
+                }
+            },
+            {
+                "threshold": 301,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_placeholder_door_1"
+                }
+            },
+            {
+                "threshold": 302,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_garden_door_1"
+                }
+            },
+            {
+                "threshold": 304,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_factory_door_1"
+                }
+            },
+            {
+                "threshold": 305,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_winter_door_1"
+                }
+            },
+            {
+                "threshold": 306,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_winter_door_2"
+                }
+            },
+            {
+                "threshold": 307,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_tree_door_1"
+                }
+            },
+            {
+                "threshold": 308,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_factory_door_2"
+                }
+            },
+            {
+                "threshold": 309,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"
+                }
+            },
+            {
+                "threshold": 401,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_vertical_placeholder_door_1"
+                }
+            },
+            {
+                "threshold": 402,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_vertical_industrial_door_1"
+                }
+            },
+            {
+                "threshold": 403,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"
+                }
+            },
+            {
+                "threshold": 501,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/branch_door_spring_1"
+                }
+            },
+            {
+                "threshold": 601,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/branch_door_spring_decal_1"
+                }
+            },
+            {
+                "threshold": 602,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/branch_door_autumn_decal_1"
+                }
+            },
+            {
+                "threshold": 603,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/door/branch_door_winter_decal_1"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "item/gray_dye"
+        }
+    }
+}

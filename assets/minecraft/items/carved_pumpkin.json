@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:block/variations/misc/empty"
+                }
+            },
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "puzzle_boxes:item/secrets/black_hole_hat"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "item/carved_pumpkin"
+        }
+    }
+}

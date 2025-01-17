@@ -1,10 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-	  "layer0": "minecraft:item/chainmail_chestplate"
-	} ,
-	"overrides": [
-	  {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/variations/misc/empty"},
-	  {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:item/misc/stats_tab"}
-	  ]
-  }
+		"layer0": "minecraft:item/chainmail_chestplate"
+	}
+}
