@@ -7,196 +7,196 @@
                 "threshold": 1,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/teleporter/teleporter_on"
-                },
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/teleporter/teleporter_on",
                 "tints": [
                   {
                     "type": "minecraft:dye",
                     "default": 0
                   }
                 ]
+            }
             },
             {
                 "threshold": 2,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/teleporter/teleporter_off"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/teleporter/teleporter_off",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 101,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_empty"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_empty",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 102,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_square"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_square",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 103,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_magnet"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_magnet",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 104,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_hole"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_hole",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 151,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_empty"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_empty",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 152,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_square"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_square",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 153,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_magnet"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_magnet",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 154,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_hole"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_hole",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 201,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/plug_inactive_1"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/plug_inactive_1",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 202,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/lamp/lamp_off"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/lamp/lamp_off",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 251,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/plug_active_1"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/plug_active_1",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 252,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/puzzle_elements/lamp/lamp_on"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/puzzle_elements/lamp/lamp_on",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             },
             {
                 "threshold": 401,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "puzzle_boxes:block/variations/misc/empty"
-                },
-                "tints": [
-                  {
-                    "type": "minecraft:dye",
-                    "default": 0
-                  }
-                ]
+                    "model": "puzzle_boxes:block/variations/misc/empty",
+                    "tints": [
+                      {
+                        "type": "minecraft:dye",
+                        "default": 0
+                      }
+                    ]
+                }
             }
         ],
         "fallback": {
