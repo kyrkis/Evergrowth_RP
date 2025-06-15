@@ -155,5 +155,6 @@
             "type": "minecraft:model",
             "model": "item/gray_dye"
         }
-    }
+    },
+    "oversized_in_gui": true
 }

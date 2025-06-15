@@ -344,5 +344,6 @@
             "type": "minecraft:model",
             "model": "item/red_dye"
         }
-    }
+    },
+    "oversized_in_gui": true
 }

@@ -36,5 +36,6 @@
             "type": "minecraft:model",
             "model": "item/green_dye"
         }
-    }
+    },
+    "oversized_in_gui": true
 }

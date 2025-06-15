@@ -113,5 +113,6 @@
             "type": "minecraft:model",
             "model": "item/black_dye"
         }
-    }
+    },
+    "oversized_in_gui":true
 }

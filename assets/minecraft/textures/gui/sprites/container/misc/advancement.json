@@ -1,13 +1,13 @@
 {
 	"parent": "item/custom/lit",
 	"textures": {
-		"0": "puzzle_boxes:item/misc/hint_lever_middle",
-		"particle": "puzzle_boxes:item/misc/hint_lever_middle"
+		"0": "puzzle_boxes:item/misc/advancement",
+		"particle": "puzzle_boxes:item/misc/advancement"
 	},
 	"elements": [
 		{
 			"from": [0, 0, 8],
-			"to": [16.0001, 16.0001, 8],
+			"to": [16, 16, 8],
 			"faces": {
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
@@ -15,7 +15,7 @@
 	],
 	"display": {
 		"gui": {
-			"translation": [-4, 0, 0]
+			"scale": [1.75, 1.75, 1.75]
 		}
 	}
 }

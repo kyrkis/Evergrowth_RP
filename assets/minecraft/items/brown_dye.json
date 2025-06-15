@@ -197,5 +197,6 @@
             "type": "minecraft:model",
             "model": "item/brown_dye"
         }
-    }
+    },
+    "oversized_in_gui":true
 }

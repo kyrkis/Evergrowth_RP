@@ -148,5 +148,6 @@
             "type": "minecraft:model",
             "model": "item/lime_dye"
         }
-    }
+    },
+    "oversized_in_gui": true
 }

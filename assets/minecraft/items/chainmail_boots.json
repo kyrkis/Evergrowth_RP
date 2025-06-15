@@ -29,5 +29,6 @@
             "type": "minecraft:model",
             "model": "item/chainmail_boots"
         }
-    }
+    },
+    "oversized_in_gui": true
 }

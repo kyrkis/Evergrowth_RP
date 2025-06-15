@@ -22,5 +22,6 @@
             "type": "minecraft:model",
             "model": "item/birch_trapdoor"
         }
-    }
+    },
+    "oversized_in_gui":true
 }

@@ -22,5 +22,6 @@
             "type": "minecraft:model",
             "model": "item/carved_pumpkin"
         }
-    }
+    },
+    "oversized_in_gui":true
 }

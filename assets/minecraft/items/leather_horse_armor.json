@@ -203,5 +203,6 @@
             "type": "minecraft:model",
             "model": "item/leather_horse_armor"
         }
-    }
+    },
+    "oversized_in_gui": true
 }

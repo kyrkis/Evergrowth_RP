@@ -205,5 +205,6 @@
             "model": "item/ender_eye"
         }
     },
-    "hand_animation_on_swap": false
+    "hand_animation_on_swap": false,
+    "oversized_in_gui": true
 }
