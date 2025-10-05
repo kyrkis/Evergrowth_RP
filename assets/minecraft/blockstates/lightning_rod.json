@@ -9,7 +9,7 @@
       "x": 180
     },
     "facing=east,powered=false": {
-      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_slope_1_new",
+      "model": "puzzle_boxes:block/variations/misc/empty",
       "y": 180
     },
     "facing=east,powered=true": {
@@ -18,7 +18,7 @@
       "y": 90
     },
     "facing=north,powered=false": {
-      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_slope_1_new",
+      "model": "puzzle_boxes:block/variations/misc/empty",
       "y": 90
     },
     "facing=north,powered=true": {
@@ -26,8 +26,8 @@
       "x": 90
     },
     "facing=south,powered=false": {
-      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_slope_1_new",
-      "y": -90
+      "model": "puzzle_boxes:block/variations/misc/empty",
+      "y": 270
     },
     "facing=south,powered=true": {
       "model": "minecraft:block/lightning_rod_on",
@@ -41,7 +41,7 @@
       "model": "minecraft:block/lightning_rod_on"
     },
     "facing=west,powered=false": {
-      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_slope_1_new",
+      "model": "puzzle_boxes:block/variations/misc/empty",
       "y": 0
     },
     "facing=west,powered=true": {
